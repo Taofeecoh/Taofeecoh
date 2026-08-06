@@ -1,4 +1,4 @@
-## Hi there 👋! My name is Taofeecoh ADESAN.
+## Hi there 👋! My name is Taofeecoh ADESANU
 ## Data Engineer | Cloud Data Platform Engineer
 My interests lie in building robust and scalable data systems with modern data architecture for data-driven businesses.
 
