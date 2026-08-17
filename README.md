@@ -20,7 +20,7 @@ My interests lie in building robust and scalable data systems with modern data a
 [![PowerBI](https://img.shields.io/badge/PowerBI-yellow.svg?style=for-the-badge&logo=powerbi&logoColor=white)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 [![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
 [![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)](https://spark.apache.org/)
-
+[![Kafka]()]()
 **☁️ Cloud Data Platforms:**
 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
